@@ -1,12 +1,12 @@
 Matlab-NMEA-File-Reader
 =======================
 
-Reads NMEA coded GPS Data from .log File to Matlab and creates Plot of stats and course driven.
+Reads [NMEA](http://de.wikipedia.org/wiki/NMEA_0183 "NMEA bei Wikipedia") coded GPS Data from .log File to Matlab and creates Plot of stats and course driven.
 
 
 
 Input file (NMEA Example)
-=========================
+-------------------------
 
 $GPGGA,080231.000,5102.0344,N,01344.3717,E,1,09,1.0,115.6,M,45.8,M,,0000*53
 $GPRMC,080231.000,A,5102.0344,N,01344.3717,E,0.00,195.19,100712,,,A*63
@@ -21,3 +21,4 @@ $GPVTG,195.19,T,,M,0.00,N,0.0,K,A*08
 $GPGGA,080233.000,5102.0344,N,01344.3717,E,1,09,1.0,115.6,M,45.8,M,,0000*51
 $GPRMC,080233.000,A,5102.0344,N,01344.3717,E,0.00,195.19,100712,,,A*61
 $GPVTG,195.19,T,,M,0.00,N,0.0,K,A*08
+
