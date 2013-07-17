@@ -22,3 +22,10 @@ $GPGGA,080233.000,5102.0344,N,01344.3717,E,1,09,1.0,115.6,M,45.8,M,,0000*51
 $GPRMC,080233.000,A,5102.0344,N,01344.3717,E,0.00,195.19,100712,,,A*61
 $GPVTG,195.19,T,,M,0.00,N,0.0,K,A*08
 
+
+Output Course and Stat Image
+----------------------------
+
+![Course und Geschwindigkeit](https://raw.github.com/balzer82/Matlab-NMEA-File-Reader/master/GPS-Log-Messung1-Course.png  "Geschwindigkeit und gefahrener Kurs")
+
+![Stats](https://raw.github.com/balzer82/Matlab-NMEA-File-Reader/master/GPS-Log-Messung1-NumSats.png  "Stats der Messung")
